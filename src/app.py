@@ -115,3 +115,57 @@ with tab2:
                    delta=f"{row['Current Lead Time'] - row['Recommended Lead Time']:.2f} days")
     else:
         st.warning("No pre-computed scenario for this exact combination yet.")
+
+
+with tab3:
+    st.subheader("Ranked factory reassignment recommendations")
+
+    action_filter = st.multiselect(
+        "Action", options=recs["Action"].unique(), default=["Reassign"]
+    )
+    filtered = recs[recs["Action"].isin(action_filter)] if action_filter else recs
+
+    st.dataframe(
+        filtered.sort_values("Lead_Time_Reduction_%", ascending=False),
+        use_container_width=True, hide_index=True,
+    )
+
+
+    top_factories = filtered[filtered["Action"] == "Reassign"]["Recommended Factory"].value_counts()
+    if len(top_factories):
+        fig3 = px.pie(
+            values=top_factories.values, names=top_factories.index,
+            title="Recommended factory reassignment distribution",
+        )
+        st.plotly_chart(fig3, use_container_width=True)
+
+
+
+
+with tab4:
+    st.subheader("Profit impact alerts & high-risk reassignments")
+
+    high_risk = recs[(recs["Risk"] == "High") & (recs["Action"] == "Reassign")]
+    st.metric("High-risk reassignments flagged", len(high_risk))
+
+    if len(high_risk):
+        st.dataframe(
+            high_risk[["Product Name", "Region", "Current Factory", "Recommended Factory",
+                       "Lead_Time_Reduction_%", "Avg_Profit_Margin"]],
+            use_container_width=True, hide_index=True,
+        )
+        st.warning(
+            "These combinations show thin profit margins — reassignment could improve "
+            "speed but review cost impact before executing."
+        )
+    else:
+        st.success("No high-risk reassignments flagged under current thresholds.")
+
+    st.subheader("Consistently slow routes (clustering output)")
+    slow = clusters[clusters["Cluster_Label"] == "Consistently Slow"].sort_values(
+        "order_count", ascending=False
+    )
+    st.dataframe(
+        slow[["Region", "Product Name", "Factory", "avg_lead_time", "order_count"]].head(20),
+        use_container_width=True, hide_index=True,
+    )
