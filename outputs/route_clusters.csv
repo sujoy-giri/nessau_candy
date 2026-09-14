@@ -1,0 +1,51 @@
+Region,Product Name,Factory,avg_lead_time,order_count,avg_distance_km,avg_profit_margin,total_units,Cluster,Cluster_Label
+Atlantic,Fizzy Lifting Drinks,Sugar Shack,4.195,2,1751.6185232600533,0.6,9,0,Fast & Efficient
+Atlantic,Fun Dip,Sugar Shack,6.84,1,1784.7947046607346,0.3999999999999999,4,2,Consistently Slow
+Atlantic,Hair Toffee,The Other Factory,6.62,1,1518.732305734222,0.7777777777777778,5,2,Consistently Slow
+Atlantic,Kazookles,The Other Factory,5.322692307692307,26,1432.3660862363663,0.0769230769230769,70,0,Fast & Efficient
+Atlantic,Laffy Taffy,Sugar Shack,4.8966666666666665,6,1758.997973091982,0.6231155778894473,14,2,Consistently Slow
+Atlantic,Lickable Wallpaper,Secret Factory,2.9600000000000004,3,1331.5334923987846,0.5,3,0,Fast & Efficient
+Atlantic,Nerds,Sugar Shack,6.6475,4,1768.206613960394,0.4666666666666666,10,2,Consistently Slow
+Atlantic,SweeTARTS,Sugar Shack,6.058,5,1783.3264209729798,0.4666666666666667,24,2,Consistently Slow
+Atlantic,Wonka Bar - Fudge Mallows,Lot's O' Nuts,5.463956043956045,546,3247.703243698337,0.6666666666666666,1980,1,Below Average
+Atlantic,Wonka Bar - Milk Chocolate,Wicked Choccy's,5.2507836990595615,638,1225.3669944485036,0.6492307692307693,2322,3,Above Average
+Atlantic,Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,5.441663244353183,487,3253.031786297629,0.7134670487106017,1815,1,Below Average
+Atlantic,Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,5.014873646209386,554,1145.6806333557372,0.6533333333333334,2034,3,Above Average
+Atlantic,Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,5.415258064516129,620,3273.489420442968,0.6944444444444444,2307,1,Below Average
+Atlantic,Wonka Gum,Secret Factory,5.224594594594595,37,1162.4219242623847,0.52,169,0,Fast & Efficient
+Gulf,Everlasting Gobstopper,Secret Factory,7.72,1,1722.2493694741324,0.8,4,2,Consistently Slow
+Gulf,Fizzy Lifting Drinks,Sugar Shack,6.88,1,2585.667587405451,0.6,4,2,Consistently Slow
+Gulf,Fun Dip,Sugar Shack,3.48,1,1581.011295943569,0.3999999999999999,1,0,Fast & Efficient
+Gulf,Hair Toffee,The Other Factory,0.22,1,922.9551550099123,0.7777777777777778,2,0,Fast & Efficient
+Gulf,Kazookles,The Other Factory,3.88,14,766.3378350715593,0.0769230769230769,49,0,Fast & Efficient
+Gulf,Laffy Taffy,Sugar Shack,7.25,2,2585.667587405451,0.6231155778894473,11,2,Consistently Slow
+Gulf,Wonka Bar - Fudge Mallows,Lot's O' Nuts,5.301202749140894,291,2688.8038832041348,0.6666666666666666,1082,1,Below Average
+Gulf,Wonka Bar - Milk Chocolate,Wicked Choccy's,4.912138554216868,332,571.7368691594439,0.6492307692307693,1342,3,Above Average
+Gulf,Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,5.425118644067797,295,2661.4584587794575,0.7134670487106017,1074,1,Below Average
+Gulf,Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,5.129786585365854,328,551.8537495795812,0.6533333333333334,1195,3,Above Average
+Gulf,Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,5.4484789644012945,309,2693.6049773413083,0.6944444444444444,1189,1,Below Average
+Gulf,Wonka Gum,Secret Factory,4.695384615384615,26,1201.0909693698293,0.52,120,0,Fast & Efficient
+Interior,Everlasting Gobstopper,Secret Factory,6.6,1,1313.7789182738672,0.8,3,2,Consistently Slow
+Interior,Fizzy Lifting Drinks,Sugar Shack,3.8049999999999997,2,1041.7623936568266,0.6,5,0,Fast & Efficient
+Interior,Fun Dip,Sugar Shack,4.07,1,1035.7860151774069,0.4,3,0,Fast & Efficient
+Interior,Kazookles,The Other Factory,4.621111111111111,9,792.8736371627251,0.0769230769230769,24,0,Fast & Efficient
+Interior,Laffy Taffy,Sugar Shack,2.0,1,1047.738772136246,0.6231155778894473,1,0,Fast & Efficient
+Interior,Lickable Wallpaper,Secret Factory,6.91,1,180.2628446206097,0.5,1,2,Consistently Slow
+Interior,SweeTARTS,Sugar Shack,6.615,4,1687.7693403591652,0.4666666666666666,13,2,Consistently Slow
+Interior,Wonka Bar - Fudge Mallows,Lot's O' Nuts,5.252048780487805,410,1842.4145791526907,0.6666666666666666,1595,3,Above Average
+Interior,Wonka Bar - Milk Chocolate,Wicked Choccy's,5.134395161290322,496,1437.1551793105887,0.6492307692307692,1827,3,Above Average
+Interior,Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,5.309845132743363,452,1859.957590676495,0.7134670487106017,1694,3,Above Average
+Interior,Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,5.2636241610738255,447,1432.6155171477858,0.6533333333333334,1638,3,Above Average
+Interior,Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,5.397668845315905,459,1800.5817840318007,0.6944444444444444,1723,3,Above Average
+Interior,Wonka Gum,Secret Factory,4.393103448275862,29,728.7644371220409,0.52,112,0,Fast & Efficient
+Pacific,Fizzy Lifting Drinks,Sugar Shack,7.22,1,2041.8908374620464,0.6,3,2,Consistently Slow
+Pacific,Hair Toffee,The Other Factory,5.17,2,2324.0385198423146,0.7777777777777778,10,2,Consistently Slow
+Pacific,Kazookles,The Other Factory,5.007407407407407,27,2586.392214445372,0.0769230769230769,84,0,Fast & Efficient
+Pacific,Laffy Taffy,Sugar Shack,6.3,1,1884.9991993084464,0.6231155778894473,1,2,Consistently Slow
+Pacific,SweeTARTS,Sugar Shack,4.26,1,2338.179365369098,0.4666666666666666,4,0,Fast & Efficient
+Pacific,Wonka Bar - Fudge Mallows,Lot's O' Nuts,5.096984126984126,567,1000.5613111658137,0.6666666666666666,2201,3,Above Average
+Pacific,Wonka Bar - Milk Chocolate,Wicked Choccy's,5.59810606060606,660,3440.234634488284,0.6492307692307693,2622,1,Below Average
+Pacific,Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,4.9663157894736845,570,985.15048902467,0.7134670487106017,2088,3,Above Average
+Pacific,Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,5.559762611275965,674,3462.8511008453106,0.6533333333333333,2569,1,Below Average
+Pacific,Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,4.84688524590164,671,979.382454426413,0.6944444444444444,2454,3,Above Average
+Pacific,Wonka Gum,Secret Factory,4.589285714285714,28,2299.562511633401,0.52,77,0,Fast & Efficient

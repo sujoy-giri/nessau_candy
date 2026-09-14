@@ -1,0 +1,142 @@
+Product Name,Region,Ship Mode,Current Factory,Recommended Factory,Current Lead Time,Recommended Lead Time,Lead_Time_Reduction_%,Order_Volume,Avg_Profit_Margin,Risk,Action
+Wonka Bar -Scrumdiddlyumptious,Gulf,Same Day,Lot's O' Nuts,Wicked Choccy's,1.1,0.41,62.7,12,0.694,Low,Reassign
+Wonka Bar - Nutty Crunch Surprise,Gulf,Same Day,Lot's O' Nuts,Wicked Choccy's,1.07,0.49,54.2,15,0.713,Low,Reassign
+Wonka Gum,Gulf,Same Day,Secret Factory,Wicked Choccy's,1.16,0.54,53.4,1,0.52,Low,Reassign
+Wonka Bar -Scrumdiddlyumptious,Atlantic,Same Day,Lot's O' Nuts,Secret Factory,1.22,0.6,50.8,34,0.694,Low,Reassign
+Wonka Bar - Fudge Mallows,Atlantic,Same Day,Lot's O' Nuts,Secret Factory,1.22,0.64,47.5,22,0.667,Low,Reassign
+Wonka Bar - Nutty Crunch Surprise,Atlantic,Same Day,Lot's O' Nuts,Secret Factory,1.23,0.65,47.2,33,0.713,Low,Reassign
+Wonka Bar - Fudge Mallows,Gulf,Same Day,Lot's O' Nuts,Wicked Choccy's,1.05,0.56,46.7,22,0.667,Low,Reassign
+Wonka Bar -Scrumdiddlyumptious,Interior,Same Day,Lot's O' Nuts,Secret Factory,0.68,0.38,44.1,15,0.694,Low,Reassign
+Wonka Bar - Nutty Crunch Surprise,Interior,Same Day,Lot's O' Nuts,Secret Factory,0.85,0.48,43.5,25,0.713,Low,Reassign
+Wonka Bar - Fudge Mallows,Interior,Same Day,Lot's O' Nuts,Wicked Choccy's,0.87,0.52,40.2,24,0.667,Low,Reassign
+Wonka Bar - Milk Chocolate,Pacific,Same Day,Wicked Choccy's,Lot's O' Nuts,1.02,0.65,36.3,31,0.649,Low,Reassign
+Kazookles,Pacific,Same Day,The Other Factory,Lot's O' Nuts,1.04,0.69,33.7,2,0.077,High,Reassign
+Wonka Bar - Triple Dazzle Caramel,Pacific,Same Day,Wicked Choccy's,Lot's O' Nuts,0.98,0.71,27.6,45,0.653,Low,Reassign
+Wonka Gum,Atlantic,Same Day,Secret Factory,Sugar Shack,0.97,0.72,25.8,1,0.52,Low,Reassign
+Wonka Bar - Triple Dazzle Caramel,Pacific,First Class,Wicked Choccy's,Lot's O' Nuts,2.74,2.09,23.7,96,0.653,Low,Reassign
+Wonka Bar - Triple Dazzle Caramel,Interior,Same Day,Wicked Choccy's,Secret Factory,0.57,0.44,22.8,28,0.653,Low,Reassign
+Wonka Bar - Milk Chocolate,Pacific,First Class,Wicked Choccy's,Lot's O' Nuts,2.65,2.08,21.5,98,0.649,Low,Reassign
+Wonka Bar - Nutty Crunch Surprise,Gulf,First Class,Lot's O' Nuts,Wicked Choccy's,2.53,2.03,19.8,40,0.713,Low,Reassign
+Kazookles,Gulf,Same Day,The Other Factory,Wicked Choccy's,0.61,0.49,19.7,2,0.077,High,Reassign
+Wonka Bar - Nutty Crunch Surprise,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,2.55,2.09,18.0,79,0.713,Low,Reassign
+Wonka Bar - Nutty Crunch Surprise,Atlantic,Second Class,Lot's O' Nuts,Sugar Shack,4.91,4.11,16.3,90,0.713,Low,Reassign
+Wonka Bar - Milk Chocolate,Atlantic,Same Day,Wicked Choccy's,Secret Factory,0.68,0.57,16.2,36,0.649,Low,Reassign
+Fun Dip,Gulf,Second Class,Sugar Shack,Wicked Choccy's,4.63,3.9,15.8,1,0.4,High,Reassign
+Wonka Bar -Scrumdiddlyumptious,Gulf,First Class,Lot's O' Nuts,Wicked Choccy's,2.41,2.03,15.8,47,0.694,Low,Reassign
+Wonka Bar -Scrumdiddlyumptious,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,2.5,2.11,15.6,112,0.694,Low,Reassign
+SweeTARTS,Pacific,Second Class,Sugar Shack,Lot's O' Nuts,4.79,4.1,14.4,1,0.467,Low,Reassign
+Wonka Bar - Triple Dazzle Caramel,Atlantic,Same Day,Wicked Choccy's,Secret Factory,0.77,0.66,14.3,27,0.653,Low,Reassign
+Wonka Gum,Pacific,First Class,Secret Factory,Lot's O' Nuts,2.44,2.11,13.5,6,0.52,Low,Reassign
+Hair Toffee,Pacific,Standard Class,The Other Factory,Lot's O' Nuts,7.43,6.43,13.5,1,0.778,Low,Reassign
+SweeTARTS,Interior,Second Class,Sugar Shack,The Other Factory,4.56,3.95,13.4,1,0.467,Low,Reassign
+Wonka Bar - Fudge Mallows,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,2.47,2.14,13.4,109,0.667,Low,Reassign
+Wonka Gum,Pacific,Same Day,Secret Factory,Lot's O' Nuts,0.84,0.74,11.9,3,0.52,Low,Reassign
+Hair Toffee,Gulf,Same Day,The Other Factory,Wicked Choccy's,0.61,0.54,11.5,1,0.778,Low,Reassign
+Wonka Bar -Scrumdiddlyumptious,Gulf,Second Class,Lot's O' Nuts,Secret Factory,4.42,3.92,11.3,60,0.694,Low,Reassign
+Wonka Gum,Pacific,Standard Class,Secret Factory,Lot's O' Nuts,7.22,6.42,11.1,11,0.52,Low,Reassign
+Wonka Bar - Milk Chocolate,Pacific,Second Class,Wicked Choccy's,Lot's O' Nuts,4.59,4.09,10.9,131,0.649,Low,Reassign
+Wonka Bar - Fudge Mallows,Atlantic,Second Class,Lot's O' Nuts,Wicked Choccy's,4.58,4.08,10.9,92,0.667,Low,Reassign
+Kazookles,Pacific,Standard Class,The Other Factory,Lot's O' Nuts,7.25,6.46,10.9,12,0.077,High,Reassign
+Wonka Bar - Fudge Mallows,Gulf,First Class,Lot's O' Nuts,Wicked Choccy's,2.41,2.15,10.8,39,0.667,Low,Reassign
+Fizzy Lifting Drinks,Interior,Standard Class,Sugar Shack,Secret Factory,6.63,5.92,10.7,1,0.6,Low,Reassign
+Wonka Bar - Triple Dazzle Caramel,Pacific,Second Class,Wicked Choccy's,Lot's O' Nuts,4.57,4.08,10.7,122,0.653,Low,Reassign
+Wonka Bar -Scrumdiddlyumptious,Atlantic,Second Class,Lot's O' Nuts,Wicked Choccy's,4.56,4.08,10.5,119,0.694,Low,Reassign
+Wonka Bar - Fudge Mallows,Atlantic,Standard Class,Lot's O' Nuts,Secret Factory,7.26,6.51,10.3,323,0.667,Low,Reassign
+Kazookles,Atlantic,Same Day,The Other Factory,Secret Factory,0.79,0.71,10.1,2,0.077,High,Reassign
+Wonka Bar - Fudge Mallows,Gulf,Second Class,Lot's O' Nuts,Secret Factory,4.35,3.92,9.9,58,0.667,Low,Reassign
+Wonka Bar - Nutty Crunch Surprise,Gulf,Standard Class,Lot's O' Nuts,Wicked Choccy's,6.91,6.24,9.7,175,0.713,Low,Reassign
+Wonka Bar - Fudge Mallows,Gulf,Standard Class,Lot's O' Nuts,Wicked Choccy's,6.88,6.25,9.2,172,0.667,Low,Reassign
+SweeTARTS,Interior,Standard Class,Sugar Shack,Secret Factory,6.74,6.13,9.1,3,0.467,Low,Reassign
+Fun Dip,Interior,Second Class,Sugar Shack,The Other Factory,4.41,4.01,9.1,1,0.4,Low,Reassign
+Wonka Gum,Gulf,Standard Class,Secret Factory,The Other Factory,6.69,6.09,9.0,12,0.52,Low,Reassign
+Kazookles,Pacific,First Class,The Other Factory,Lot's O' Nuts,2.25,2.05,8.9,5,0.077,High,Reassign
+Wonka Bar -Scrumdiddlyumptious,Gulf,Standard Class,Lot's O' Nuts,Wicked Choccy's,6.85,6.28,8.3,190,0.694,Low,Reassign
+Wonka Bar - Triple Dazzle Caramel,Pacific,Standard Class,Wicked Choccy's,Lot's O' Nuts,6.92,6.36,8.1,411,0.653,Low,Reassign
+Wonka Bar -Scrumdiddlyumptious,Interior,First Class,Lot's O' Nuts,The Other Factory,2.14,1.98,7.5,56,0.694,Low,Reassign
+Kazookles,Atlantic,First Class,The Other Factory,Wicked Choccy's,2.2,2.04,7.3,3,0.077,High,Reassign
+Laffy Taffy,Gulf,Standard Class,Sugar Shack,The Other Factory,6.69,6.21,7.2,2,0.623,Low,Reassign
+Wonka Bar - Nutty Crunch Surprise,Gulf,Second Class,Lot's O' Nuts,Wicked Choccy's,4.32,4.01,7.2,65,0.713,Low,Reassign
+Laffy Taffy,Atlantic,Same Day,Sugar Shack,The Other Factory,0.69,0.64,7.2,1,0.623,Low,Reassign
+Hair Toffee,Pacific,First Class,The Other Factory,Lot's O' Nuts,2.25,2.09,7.1,1,0.778,Low,Reassign
+Wonka Bar - Nutty Crunch Surprise,Interior,First Class,Lot's O' Nuts,The Other Factory,2.14,1.99,7.0,55,0.713,Low,Reassign
+Wonka Gum,Pacific,Second Class,Secret Factory,Lot's O' Nuts,4.29,4.0,6.8,8,0.52,Low,Reassign
+Wonka Bar - Fudge Mallows,Interior,First Class,Lot's O' Nuts,Secret Factory,2.25,2.1,6.7,54,0.667,Low,Reassign
+Wonka Bar - Nutty Crunch Surprise,Atlantic,Standard Class,Lot's O' Nuts,Secret Factory,7.02,6.55,6.7,285,0.713,Low,Reassign
+Fizzy Lifting Drinks,Atlantic,First Class,Sugar Shack,Wicked Choccy's,2.13,1.99,6.6,1,0.6,Low,Reassign
+Fizzy Lifting Drinks,Gulf,Standard Class,Sugar Shack,The Other Factory,6.78,6.33,6.6,1,0.6,Low,Reassign
+Wonka Gum,Gulf,First Class,Secret Factory,Wicked Choccy's,2.22,2.08,6.3,4,0.52,Low,Reassign
+Wonka Bar - Milk Chocolate,Pacific,Standard Class,Wicked Choccy's,Lot's O' Nuts,6.91,6.48,6.2,400,0.649,Low,Reassign
+Wonka Bar - Fudge Mallows,Interior,Standard Class,Lot's O' Nuts,Secret Factory,6.57,6.19,5.8,258,0.667,Low,Reassign
+Kazookles,Atlantic,Standard Class,The Other Factory,Secret Factory,7.02,6.62,5.7,15,0.077,High,Reassign
+Wonka Bar - Nutty Crunch Surprise,Interior,Standard Class,Lot's O' Nuts,Secret Factory,6.78,6.41,5.5,266,0.713,Low,Reassign
+Kazookles,Interior,Standard Class,The Other Factory,Secret Factory,6.16,5.82,5.5,5,0.077,High,Reassign
+Fizzy Lifting Drinks,Pacific,Standard Class,Sugar Shack,Lot's O' Nuts,6.81,6.44,5.4,1,0.6,Low,Reassign
+Wonka Bar -Scrumdiddlyumptious,Interior,Standard Class,Lot's O' Nuts,Secret Factory,6.61,6.25,5.4,293,0.694,Low,Reassign
+Everlasting Gobstopper,Gulf,Standard Class,Secret Factory,The Other Factory,6.7,6.34,5.4,1,0.8,Low,Reassign
+Wonka Bar - Milk Chocolate,Interior,First Class,Wicked Choccy's,The Other Factory,2.06,1.95,5.3,72,0.649,Low,Reassign
+Wonka Bar - Triple Dazzle Caramel,Interior,Standard Class,Wicked Choccy's,Secret Factory,6.47,6.13,5.3,287,0.653,Low,Reassign
+Kazookles,Pacific,Second Class,The Other Factory,Lot's O' Nuts,4.29,4.09,4.7,8,0.077,High,Reassign
+Wonka Bar - Triple Dazzle Caramel,Interior,First Class,Wicked Choccy's,Secret Factory,2.16,2.06,4.6,52,0.653,Low,Reassign
+Laffy Taffy,Atlantic,First Class,Sugar Shack,Wicked Choccy's,2.02,1.93,4.5,1,0.623,Low,Reassign
+Lickable Wallpaper,Atlantic,First Class,Secret Factory,Wicked Choccy's,2.09,2.0,4.3,2,0.5,Low,Reassign
+Wonka Bar - Milk Chocolate,Interior,Same Day,Wicked Choccy's,Secret Factory,0.49,0.47,4.1,25,0.649,Low,Reassign
+SweeTARTS,Atlantic,Second Class,Sugar Shack,Wicked Choccy's,4.34,4.19,3.5,1,0.467,Low,Reassign
+Laffy Taffy,Atlantic,Standard Class,Sugar Shack,Secret Factory,6.69,6.47,3.3,4,0.623,Low,Reassign
+Laffy Taffy,Pacific,Standard Class,Sugar Shack,Lot's O' Nuts,6.72,6.5,3.3,1,0.623,Low,Reassign
+Wonka Bar -Scrumdiddlyumptious,Interior,Second Class,Lot's O' Nuts,Secret Factory,4.18,4.06,2.9,95,0.694,Low,Reassign
+Nerds,Atlantic,Standard Class,Sugar Shack,Secret Factory,6.65,6.49,2.4,4,0.467,Low,Reassign
+Wonka Bar - Fudge Mallows,Interior,Second Class,Lot's O' Nuts,Wicked Choccy's,4.18,4.08,2.4,74,0.667,Low,Reassign
+Kazookles,Atlantic,Second Class,The Other Factory,Wicked Choccy's,4.18,4.08,2.4,6,0.077,High,Reassign
+Fun Dip,Atlantic,Standard Class,Sugar Shack,Secret Factory,6.66,6.51,2.3,1,0.4,High,Reassign
+Wonka Bar -Scrumdiddlyumptious,Atlantic,Standard Class,Lot's O' Nuts,Secret Factory,6.66,6.52,2.1,355,0.694,Low,Reassign
+Hair Toffee,Atlantic,Standard Class,The Other Factory,Secret Factory,6.66,6.52,2.1,1,0.778,Low,Reassign
+Wonka Bar - Milk Chocolate,Interior,Standard Class,Wicked Choccy's,Secret Factory,6.5,6.37,2.0,303,0.649,Low,Reassign
+SweeTARTS,Atlantic,Standard Class,Sugar Shack,Secret Factory,6.63,6.52,1.7,4,0.467,Low,Reassign
+Wonka Bar - Triple Dazzle Caramel,Gulf,Second Class,Wicked Choccy's,Secret Factory,3.93,3.87,1.5,61,0.653,Low,Reassign
+Fizzy Lifting Drinks,Atlantic,Standard Class,Sugar Shack,Secret Factory,6.61,6.52,1.4,1,0.6,Low,Reassign
+Wonka Bar - Triple Dazzle Caramel,Gulf,Standard Class,Wicked Choccy's,The Other Factory,6.21,6.13,1.3,211,0.653,Low,Reassign
+Wonka Bar - Triple Dazzle Caramel,Interior,Second Class,Wicked Choccy's,Secret Factory,4.15,4.1,1.2,80,0.653,Low,Reassign
+Fizzy Lifting Drinks,Interior,First Class,Sugar Shack,The Other Factory,1.88,1.86,1.1,1,0.6,Low,Reassign
+Wonka Gum,Atlantic,Second Class,Secret Factory,Wicked Choccy's,4.13,4.09,1.0,3,0.52,Low,Reassign
+Wonka Gum,Interior,First Class,Secret Factory,The Other Factory,2.04,2.02,1.0,9,0.52,Low,Reassign
+Kazookles,Interior,Second Class,The Other Factory,Secret Factory,4.06,4.02,1.0,2,0.077,High,Reassign
+Kazookles,Gulf,Second Class,The Other Factory,Secret Factory,3.93,3.9,0.8,3,0.077,High,Reassign
+Wonka Bar - Triple Dazzle Caramel,Atlantic,Standard Class,Wicked Choccy's,Secret Factory,6.56,6.51,0.8,318,0.653,Low,Reassign
+Wonka Bar - Milk Chocolate,Atlantic,Standard Class,Wicked Choccy's,Secret Factory,6.55,6.51,0.6,413,0.649,Low,Reassign
+Wonka Gum,Interior,Second Class,Secret Factory,Wicked Choccy's,4.09,4.07,0.5,4,0.52,Low,Reassign
+Wonka Gum,Atlantic,First Class,Secret Factory,Wicked Choccy's,2.2,2.19,0.5,8,0.52,Low,Reassign
+Everlasting Gobstopper,Interior,Standard Class,Secret Factory,Secret Factory,5.92,5.92,0.0,1,0.8,Low,Keep
+Kazookles,Gulf,First Class,The Other Factory,The Other Factory,2.01,2.01,0.0,4,0.077,Low,Keep
+Lickable Wallpaper,Interior,Standard Class,Secret Factory,Secret Factory,6.17,6.17,0.0,1,0.5,Low,Keep
+Wonka Bar - Milk Chocolate,Interior,Second Class,Wicked Choccy's,Wicked Choccy's,4.04,4.04,0.0,96,0.649,Low,Keep
+Wonka Bar - Milk Chocolate,Gulf,Same Day,Wicked Choccy's,Wicked Choccy's,0.51,0.51,0.0,15,0.649,Low,Keep
+Wonka Bar - Milk Chocolate,Atlantic,First Class,Wicked Choccy's,Wicked Choccy's,2.02,2.02,0.0,84,0.649,Low,Keep
+Wonka Bar - Milk Chocolate,Atlantic,Second Class,Wicked Choccy's,Wicked Choccy's,4.07,4.07,0.0,105,0.649,Low,Keep
+Wonka Bar - Milk Chocolate,Gulf,First Class,Wicked Choccy's,Wicked Choccy's,1.98,1.98,0.0,58,0.649,Low,Keep
+Wonka Bar - Milk Chocolate,Gulf,Standard Class,Wicked Choccy's,Wicked Choccy's,6.13,6.13,0.0,191,0.649,Low,Keep
+Wonka Bar - Milk Chocolate,Gulf,Second Class,Wicked Choccy's,Wicked Choccy's,3.82,3.82,0.0,68,0.649,Low,Keep
+Wonka Bar - Fudge Mallows,Pacific,Standard Class,Lot's O' Nuts,Lot's O' Nuts,6.46,6.46,0.0,342,0.667,Low,Keep
+Wonka Bar - Fudge Mallows,Pacific,First Class,Lot's O' Nuts,Lot's O' Nuts,2.11,2.11,0.0,74,0.667,Low,Keep
+Wonka Bar - Fudge Mallows,Pacific,Same Day,Lot's O' Nuts,Lot's O' Nuts,0.74,0.74,0.0,30,0.667,Low,Keep
+Wonka Bar - Fudge Mallows,Pacific,Second Class,Lot's O' Nuts,Lot's O' Nuts,4.11,4.11,0.0,121,0.667,Low,Keep
+Kazookles,Interior,First Class,The Other Factory,The Other Factory,1.91,1.91,0.0,2,0.077,Low,Keep
+Kazookles,Gulf,Standard Class,The Other Factory,The Other Factory,6.22,6.22,0.0,5,0.077,Low,Keep
+Laffy Taffy,Interior,First Class,Sugar Shack,Sugar Shack,1.96,1.96,0.0,1,0.623,Low,Keep
+Lickable Wallpaper,Atlantic,Second Class,Secret Factory,Secret Factory,4.18,4.18,0.0,1,0.5,Low,Keep
+Wonka Bar - Nutty Crunch Surprise,Interior,Second Class,Lot's O' Nuts,Lot's O' Nuts,4.13,4.13,0.0,106,0.713,Low,Keep
+Wonka Bar - Triple Dazzle Caramel,Atlantic,Second Class,Wicked Choccy's,Wicked Choccy's,4.06,4.06,0.0,122,0.653,Low,Keep
+Wonka Bar - Triple Dazzle Caramel,Atlantic,First Class,Wicked Choccy's,Wicked Choccy's,2.14,2.14,0.0,87,0.653,Low,Keep
+Wonka Bar - Triple Dazzle Caramel,Gulf,Same Day,Wicked Choccy's,Wicked Choccy's,0.43,0.43,0.0,15,0.653,Low,Keep
+Wonka Bar - Triple Dazzle Caramel,Gulf,First Class,Wicked Choccy's,Wicked Choccy's,2.12,2.12,0.0,41,0.653,Low,Keep
+Wonka Bar - Nutty Crunch Surprise,Pacific,First Class,Lot's O' Nuts,Lot's O' Nuts,2.11,2.11,0.0,112,0.713,Low,Keep
+Wonka Bar - Nutty Crunch Surprise,Pacific,Same Day,Lot's O' Nuts,Lot's O' Nuts,0.69,0.69,0.0,30,0.713,Low,Keep
+Wonka Bar - Nutty Crunch Surprise,Pacific,Second Class,Lot's O' Nuts,Lot's O' Nuts,4.09,4.09,0.0,92,0.713,Low,Keep
+Wonka Bar - Nutty Crunch Surprise,Pacific,Standard Class,Lot's O' Nuts,Lot's O' Nuts,6.42,6.42,0.0,336,0.713,Low,Keep
+Wonka Bar -Scrumdiddlyumptious,Pacific,Standard Class,Lot's O' Nuts,Lot's O' Nuts,6.43,6.43,0.0,371,0.694,Low,Keep
+Wonka Bar -Scrumdiddlyumptious,Pacific,Second Class,Lot's O' Nuts,Lot's O' Nuts,3.93,3.93,0.0,144,0.694,Low,Keep
+Wonka Bar -Scrumdiddlyumptious,Pacific,Same Day,Lot's O' Nuts,Lot's O' Nuts,0.62,0.62,0.0,43,0.694,Low,Keep
+Wonka Bar -Scrumdiddlyumptious,Pacific,First Class,Lot's O' Nuts,Lot's O' Nuts,2.09,2.09,0.0,113,0.694,Low,Keep
+Wonka Gum,Gulf,Second Class,Secret Factory,Secret Factory,3.87,3.87,0.0,9,0.52,Low,Keep
+Wonka Gum,Atlantic,Standard Class,Secret Factory,Secret Factory,6.54,6.54,0.0,25,0.52,Low,Keep
+Wonka Gum,Interior,Standard Class,Secret Factory,Secret Factory,5.76,5.76,0.0,14,0.52,Low,Keep
+Wonka Gum,Interior,Same Day,Secret Factory,Secret Factory,0.42,0.42,0.0,2,0.52,Low,Keep
