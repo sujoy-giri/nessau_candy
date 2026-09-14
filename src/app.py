@@ -3,18 +3,22 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 import sys
-sys.path.append(".")
+sys.path.append(str(BASE_DIR))
 from geo_utils import haversine
+from pathlib import Path
+BASE_DIR = Path(__file__).resolve().parent  # folder containing app.py, i.e. src/
 
 st.set_page_config(
     page_title="Nassau Candy | Factory Optimization", page_icon="🏭", layout="wide"
 )
 
-DATA_PATH = "../outputs/cleaned_data.csv"
-FACTORY_PATH = "../data/factories.csv"
-MODEL_PATH = "../models/random_forest_model.joblib"
-REC_PATH = "../outputs/reassignment_recommendations.csv"
-CLUSTER_PATH = "../outputs/route_clusters.csv"
+
+
+DATA_PATH = BASE_DIR / ".." / "outputs" / "cleaned_data.csv"
+FACTORY_PATH = BASE_DIR / ".." / "data" / "factories.csv"
+MODEL_PATH = BASE_DIR / ".." / "models" / "random_forest_model.joblib"
+REC_PATH = BASE_DIR / ".." / "outputs" / "reassignment_recommendations.csv"
+CLUSTER_PATH = BASE_DIR / ".." / "outputs" / "route_clusters.csv"
 
 @st.cache_data
 def load_data():
