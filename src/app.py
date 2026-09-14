@@ -3,10 +3,10 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 import sys
-sys.path.append(str(BASE_DIR))
 from geo_utils import haversine
 from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent  # folder containing app.py, i.e. src/
+sys.path.append(str(BASE_DIR))
 
 st.set_page_config(
     page_title="Nassau Candy | Factory Optimization", page_icon="🏭", layout="wide"
